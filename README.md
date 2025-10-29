@@ -30,7 +30,7 @@
 ### 📊 42 School:
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/ggevorgi?UM6P=off" alt="ggevorgi's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ggevorgi?UM6P=off" alt="ggevorgi's 42 stats" /></a>
 </p>
 
 ### 🤝 Connect with Me:
